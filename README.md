@@ -16,7 +16,7 @@ Welcome to the FastText Spam Detection Notebook! This repository contains a Pyth
 ## Requirements:
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- [FastText library: English] (https://fasttext.cc/docs/en/crawl-vectors.html)
+- [FastText library: English](https://fasttext.cc/docs/en/crawl-vectors.html)
 - Required libraries (specified in the notebook)
 
 ## Dataset:
