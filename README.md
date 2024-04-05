@@ -20,7 +20,7 @@ Welcome to the FastText Spam Detection Notebook! This repository contains a Pyth
 - Required libraries (specified in the notebook)
 
 ## Dataset:
-The notebook utilizes a dataset of labeled messages, where each message is tagged as spam or not spam. You can find the dataset [here](link_to_dataset).
+The notebook utilizes a dataset of labeled messages, where each message is tagged as spam or not spam. You can find the dataset [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 ## Contributions:
 Contributions are welcome! If you have any suggestions for improvement or would like to add features, feel free to fork this repository and submit a pull request.
@@ -29,5 +29,5 @@ Contributions are welcome! If you have any suggestions for improvement or would 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments:
-- Special thanks to [source_of_dataset] for providing the dataset used in this project.
+- Special thanks to kaggle for providing the dataset used in this project.
 - Thanks to the FastText team for developing an efficient library for text classification.
