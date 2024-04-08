@@ -23,9 +23,9 @@ Welcome to the FastText Spam Detection Notebook! This repository contains a Pyth
 The notebook utilizes a dataset of labeled messages, where each message is tagged as spam or not spam. You can find the dataset [here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 ## Quick Download Links:
-[Google Colab](https://colab.research.google.com/drive/1LQrmOW-UKmQegxVEc9haejtBsGykv_Kd?usp=sharing)
-[Dataset](https://drive.google.com/file/d/11maEBuqc9IKSNWHXkfphUppgM3fNqaLd/view?usp=sharing)
-[Fastext English Model](https://drive.google.com/file/d/1q7r68M8IUSgQ8IuHxjzqAIyLKGSI7244/view?usp=sharing)
+- [Google Colab](https://colab.research.google.com/drive/1LQrmOW-UKmQegxVEc9haejtBsGykv_Kd?usp=sharing)
+- [Dataset](https://drive.google.com/file/d/11maEBuqc9IKSNWHXkfphUppgM3fNqaLd/view?usp=sharing)
+- [Fastext English Model](https://drive.google.com/file/d/1q7r68M8IUSgQ8IuHxjzqAIyLKGSI7244/view?usp=sharing)
 
 ## Contributions:
 Contributions are welcome! If you have any suggestions for improvement or would like to add features, feel free to fork this repository and submit a pull request.
